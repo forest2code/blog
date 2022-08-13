@@ -1,4 +1,4 @@
-baseURL: https://arc.zyanjun.com/
+baseURL: "https://blog-blue-alpha.vercel.app/" 
 languageCode: en-us
 defaultContentLanguage: en
 title: zyanjun
