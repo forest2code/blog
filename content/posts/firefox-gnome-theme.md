@@ -3,7 +3,7 @@ title: "firefox-gnome-theme"
 date: "2022-09-16"
 description: "install firefox gnome theme"
 tags: [
-    "系统美化“
+    "系统美化",
 ]
 ---
 
