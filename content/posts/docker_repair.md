@@ -8,7 +8,8 @@ tags: [
 ]
 ---
 
-问题描述：![](https://github.com/forest2code/blog/raw/master/img/dockererror.jpg)
+问题描述：
+![](https://github.com/forest2code/blog/raw/master/img/dockererror.jpg)
 
 原因：当前用户没有docker权限
 
