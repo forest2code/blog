@@ -9,9 +9,11 @@ tags: [
 ---
 
 问题描述：https://github.com/forest2code/blog/blob/master/img/dockererror.jpg
+
 原因：当前用户没有docker权限
 
 解决办法1: 使用`sudo`命令
+
 解决方法2: 将当前用户添加到docker组中
 
 ```
